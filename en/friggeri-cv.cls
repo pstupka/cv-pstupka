@@ -51,12 +51,12 @@
 \RequirePackage[math-style=TeX,vargreek-shape=unicode]{unicode-math}
 \setmathfont{Latin Modern Math}
 
-\newfontfamily\bodyfont[]{Helvetica Neue}
+\newfontfamily\bodyfont[]{HelveticaNeueLTPro-Md.otf}
 \newfontfamily\thinfont[]{HelveticaNeueLTPro-UltLt.ttf}
 \newfontfamily\headingfont[]{HelveticaNeueLTPro-BdCn.ttf}
 
 \defaultfontfeatures{Mapping=tex-text}
-\setmainfont[Mapping=tex-text, Color=textcolor]{Helvetica Neue Light}
+\setmainfont[Mapping=tex-text, Color=textcolor]{HelveticaNeueLTPro-Lt.otf}
 
 %\setmathfont{XITS Math}
 
